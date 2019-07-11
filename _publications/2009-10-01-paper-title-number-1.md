@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "FA-Harris: A Fast and Asynchronous Corner Detector for Event Cameras"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this paper, we propose a novel fast and asynchronous event-based corner detection method which is called FA-Harris. FA-Harris consists of several components, including an event filter, a Global Surface of Active Events (G-SAE) maintaining unit, a corner candidate selecting unit, and a corner candidate refining unit.'
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://arxiv.org/pdf/1906.10925.pdf'
+citation: 'Ruoxiang, Li and Dianxi, Shi and Yongjun, Zhang and Kaiyue, Li and Ruihao, Li. "FA-Harris: A Fast and Asynchronous Corner Detector for Event Cameras". IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this paper, we propose a novel fast and asynchronous event-based corner detection method which is called FA-Harris. FA-Harris consists of several components, including an event filter, a Global Surface of Active Events (G-SAE) maintaining unit, a corner candidate selecting unit, and a corner candidate refining unit.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/pdf/1906.10925.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ruoxiang, Li and Dianxi, Shi and Yongjun, Zhang and Kaiyue, Li and Ruihao, Li. "FA-Harris: A Fast and Asynchronous Corner Detector for Event Cameras". IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.
