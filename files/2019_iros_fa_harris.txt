@@ -1,0 +1,6 @@
+@article{li2019fa,
+  title={FA-Harris: A Fast and Asynchronous Corner Detector for Event Cameras},
+  author={Li, Ruoxiang and Shi, Dianxi and Zhang, Yongjun and Li, Kaiyue and Li, Ruihao},
+  journal={arXiv preprint arXiv:1906.10925},
+  year={2019}
+}
