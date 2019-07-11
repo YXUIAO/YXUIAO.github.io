@@ -2,7 +2,7 @@
 title: "Multi-UAV Collaborative Monocular SLAM Focusing on Data Sharing"
 collection: publications
 permalink: /Multi-UAV
-date: 2018
+date: 2018-11-08
 venue: International Conference on Neural Information Processing
 ---
 
