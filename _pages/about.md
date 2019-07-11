@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Ruoxiang Li's home on the web.
-
 I am a postgraduate at National University of Defense Technology and Science and Technology on Parallel and Distributed Laboratory. My current research focuses on (1) visual SLAM; (2) event-based SLAM; (3) robotics.
 
 ## Bio
