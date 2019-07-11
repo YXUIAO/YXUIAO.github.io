@@ -16,4 +16,4 @@ Recently, the emerging bio-inspired event cameras have demonstrated potentials f
 [Download paper here](https://arxiv.org/pdf/1906.10925.pdf)
 
 <b>Reference:</b> 
-* Ruoxiang, Li and Dianxi, Shi and Yongjun, Zhang and Kaiyue, Li and Ruihao, Li, "FA-Harris: A Fast and Asynchronous Corner Detector for Event Cameras," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.
+* <b>Ruoxiang, Li</b> and Dianxi, Shi and Yongjun, Zhang and Kaiyue, Li and Ruihao, Li, "FA-Harris: A Fast and Asynchronous Corner Detector for Event Cameras," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.
