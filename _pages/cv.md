@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-  - /files/Ruoxiang_Li_s_CV.pdf
+  - /files/Ruoxiang_Li_s_CV_for_Homepage.pdf
 ---
 
 {% include base_path %}
