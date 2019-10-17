@@ -7,7 +7,7 @@ date: 2019-07-11
 venue: IEEE Access
 # paperurl: 'https://arxiv.org/pdf/1906.10925.pdf'
 # citation: 'Ruoxiang, Li and Dianxi, Shi and Yongjun, Zhang and Kaiyue, Li and Ruihao, Li. "FA-Harris: A Fast and Asynchronous Corner Detector for Event Cameras". IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.'
-youtubeId: v5CcBVkmI6w
+# youtubeId: v5CcBVkmI6w
 ---
 <a href="https://www.researchgate.net/publication/335013030_Feature_Tracking_Based_on_Line_Segments_with_the_Dynamic_and_Active-pixel_Vision_Sensor_DAVIS" target="_blank"><b>PDF</b></a>&emsp;
 # <a href="https://youtu.be/v5CcBVkmI6w" target="_blank"><b>Video</b></a>&emsp;
