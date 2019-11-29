@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ruoxiang Li"
   avatar           : "ruoxianglee.jpg"
-  bio              : "Postgraduate at the National University of Defense Technology"
+  bio              : "M.A. student at the National University of Defense Technology, China. Focusing on visual SLAM and event-based vision methods."
   location         : "Changsha, China"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "ruoxianglee"
   vine             :
   weibo            :
   xing             :
