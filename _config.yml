@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ruoxiang Li"
-  avatar           : "ruoxianglee.jpg"
+  name             : "Xiaoxiao Yu"
+  avatar           : "xiaoxiaoyu.jpg"
   bio              : "M.A. student at the National University of Defense Technology, China. Focusing on visual SLAM and event-based vision methods."
   location         : "Changsha, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=kJI9NMUAAAAJ"
-  email            : "ruoxianglee@163.com"
+  googlescholar    : 
+  email            : "308431338@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ruoxianglee"
+  github           : "YXUIAO"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ruoxianglee"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCuYjwqD8zRo6ddOqEheqn5Q"
+  youtube          : 
   wikipedia        :
 
 
