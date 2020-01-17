@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruoxiang Li"
+title                    : "Xiaoxiao Yu"
 title_separator          : "-"
-name                     : &name "Ruoxiang Li"
+name                     : &name "Xiaoxiao Yu"
 description              : &description "Postgraduate at the National University of Defense Technology"
-url                      : https://ruoxianglee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://YXUIAO.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YXUIAO/YXUIAO.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
